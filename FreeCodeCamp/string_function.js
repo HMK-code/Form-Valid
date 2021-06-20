@@ -1,0 +1,1 @@
+export var capitalizeString = str => str.toUpperCase()
